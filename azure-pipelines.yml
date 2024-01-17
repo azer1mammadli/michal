@@ -4,8 +4,9 @@
 # https://aka.ms/yaml
 
 
+trigger: none
 
-trigger:
+pr:
   branches:
     include:
     - main
