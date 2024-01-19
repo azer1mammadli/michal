@@ -4,7 +4,10 @@
 # https://aka.ms/yaml
 
 
-trigger: none
+trigger: 
+  branches:
+    include:
+    - main
 
 pr:
   branches:
