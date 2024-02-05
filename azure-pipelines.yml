@@ -4,11 +4,11 @@
 # https://aka.ms/yaml
 
 
-trigger: 
-  branches:
-    include:
-    - main
-    - test
+#trigger: 
+#  branches:
+#    include:
+#    - main
+#    - test
  
 pr:
   branches:
